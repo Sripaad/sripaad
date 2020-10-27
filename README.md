@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Transformers, Attention models**
 
-- 👨‍💻 All of my projects are available at [https://www.sripaad.github.io](https://www.sripaad.github.io)
+- 👨‍💻 All of my projects are available at [https://www.sripaad.github.io](https://sripaad.github.io)
 
 - 📝 Feel free to reach out to me on LinkedIn [https://www.linkedin.com/in/sripaad-srinivasan](https://www.linkedin.com/in/sripaad-srinivasan)
 
