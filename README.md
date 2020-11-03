@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sripaad_" target="blank"><img src="https://img.shields.io/twitter/follow/sripaad_?logo=twitter&style=for-the-badge" alt="sripaad_" /></a> </p>
 
-- 🔭 I’m currently working on [Kaggle MOA](https://www.kaggle.com/c/lish-moa/overview)
+- 🔭 I’m currently working on [Kaggle MOA](https://www.kaggle.com/c/lish-moa/overview) and [Riid](https://www.kaggle.com/c/riiid-test-answer-prediction)
 
 - 🌱 I’m currently learning **Pytorch**
 
