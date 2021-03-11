@@ -1,14 +1,13 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Sripaad Srinivasan</h1>
-<h3 align="center">An aspiring Machine Learning Engineer.</h3>
+<h3 align="center">A Machine Learning Engineer working at Zoho Corp.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sripaad&label=Profile%20views&color=6aacd7&style=plastic" alt="sripaad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sripaad_" target="blank"><img src="https://img.shields.io/twitter/follow/sripaad_?logo=twitter&style=for-the-badge" alt="sripaad_" /></a> </p>
 
-- 🔭 I’m currently working on **NLP**
 - 🌱 I’m currently learning **sklearn pipelines** 
 
-- 👯 I’m looking to collaborate on **Anything actually xD**
+- 👯 I’m looking to collaborate on **NLP EDA**
 
 - 🤝 I’m looking for help with **Transformers, Attention models**
 
