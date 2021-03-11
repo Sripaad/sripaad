@@ -5,8 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/sripaad_" target="blank"><img src="https://img.shields.io/twitter/follow/sripaad_?logo=twitter&style=for-the-badge" alt="sripaad_" /></a> </p>
 
-- 🔭 I’m currently working on **getting a job**(high time I got one tbh)
-
+- 🔭 I’m currently working on **NLP**
 - 🌱 I’m currently learning **sklearn pipelines** 
 
 - 👯 I’m looking to collaborate on **Anything actually xD**
