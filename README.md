@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/sripaad_" target="blank"><img src="https://img.shields.io/twitter/follow/sripaad_?logo=twitter&style=for-the-badge" alt="sripaad_" /></a> </p>
 
-- 🌱 I’m currently learning **sklearn pipelines** 
+- 🌱 I’m currently experimenting with **Transformers** 
 
-- 👯 I’m looking to collaborate on **NLP EDA**
+- 👯 I’m looking to collaborate on **NLP, Language Modelling**
 
 - 🤝 I’m looking for help with **Transformers, Attention models**
 
@@ -15,7 +15,7 @@
 
 - 📝 Feel free to reach out to me on LinkedIn [https://www.linkedin.com/in/sripaad-srinivasan](https://www.linkedin.com/in/sripaad-srinivasan)
 
-- 💬 Ask me about **ML, Computer Vision, NLP, DevOps. Happy to help anytime.**
+- 💬 Ask me about **ML, NLP, Transformers, Language Modelling. Happy to help anytime.**
 
 - 📫 How to reach me **sripaad751@gmail.com**
 
