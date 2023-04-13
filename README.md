@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/sripaad_" target="blank"><img src="https://img.shields.io/twitter/follow/sripaad_?logo=twitter&style=for-the-badge" alt="sripaad_" /></a> </p>
 
-- 🌱 I’m currently experimenting with **Transformers** 
+- 🌱 I’m currently working on optimizing **Transformers & Attention models**
 
 - 👯 I’m looking to collaborate on **NLP, Language Modelling**
 
-- 🤝 I’m looking for help with **Transformers, Attention models**
+- 🤝 I’m looking for help with **Networking 😂**
 
 - 👨‍💻 All of my projects are available at [https://www.sripaad.github.io](https://sripaad.github.io)
 
