@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Sripaad Srinivasan</h1>
-<h3 align="center">A Machine Learning Engineer working at Zoho Corp.</h3>
+<h3 align="center">A Deep Learning Engineer(NLP) at Zoho Corporation.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sripaad&label=Profile%20views&color=6aacd7&style=plastic" alt="sripaad" /> </p>
 
