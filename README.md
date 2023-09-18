@@ -1,21 +1,21 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">, I'm Sripaad Srinivasan</h1>
-<h3 align="center">A Deep Learning Engineer(NLP) at Zoho Corporation.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40"> I'm Sripaad Srinivasan</h1>
+<h3 align="center">Msc Artificial Intelligence Student at Royal Holloway University of London</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sripaad&label=Profile%20views&color=6aacd7&style=plastic" alt="sripaad" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sripaad_" target="blank"><img src="https://img.shields.io/twitter/follow/sripaad_?logo=twitter&style=for-the-badge" alt="sripaad_" /></a> </p>
 
+- 📚 Ex Deep Learning Engineer(NLP) at Zoho Corporation.
+
 - 🌱 I’m currently working on optimizing **Transformers & Attention models**
 
-- 👯 I’m looking to collaborate on **NLP, Language Modelling**
-
-- 🤝 I’m looking for help with **Networking 😂**
+- 👯 I’m looking to collaborate on **NLP, Language Modeling**
 
 - 👨‍💻 All of my projects are available at [https://www.sripaad.github.io](https://sripaad.github.io)
 
 - 📝 Feel free to reach out to me on LinkedIn [https://www.linkedin.com/in/sripaad-srinivasan](https://www.linkedin.com/in/sripaad-srinivasan)
 
-- 💬 Ask me about **ML, NLP, Transformers, Language Modelling. Happy to help anytime.**
+- 💬 Ask me about **ML, NLP, Transformers, Language Modeling. Happy to help anytime.**
 
 - 📫 How to reach me **sripaad751@gmail.com**
 
